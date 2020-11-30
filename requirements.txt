@@ -1,6 +1,4 @@
 numpy
-odeint
+scipy
 matplotlib
-random
-statistics
 pandas
