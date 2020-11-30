@@ -8,7 +8,7 @@ The dynamics is the one of a decentralized Hayekian market with simple prices ad
 * If the buyer effectively makes the transaction, then its reservation price will go down (if not it will go up).
 * Each seller is visited by every buyer. If they buy, then it will increase the price of the product (if not it will decrease it).
 
-
+Coding language in Python.
 
 [1] Bellomo N.; De Nigris S.; Knopoff D.; Morini M.; Terna P., _Swarms dynamics approach to behavioral economy: Theoretical tools and price sequences_, Networks & Heterogeneous Media, __2020__, 15, 1556-1801
 
