@@ -1,0 +1,6 @@
+numpy
+odeint
+matplotlib
+random
+statistics
+pandas
