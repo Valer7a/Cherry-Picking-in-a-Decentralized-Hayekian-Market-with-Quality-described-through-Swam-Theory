@@ -11,7 +11,7 @@ The dynamics is the one of a decentralized Hayekian market with simple prices ad
 Coding language in Python.
 
 To reach the interacting platform of Binder 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Valer7a/Cherry-Picking-in-a-Decentralized-Hayekian-Market-with-Quality-described-through-Swam-Theory/tree/main/master?filepath=https%3A%2F%2Fgithub.com%2FValer7a%2FCherry-Picking-in-a-Decentralized-Hayekian-Market-with-Quality-described-through-Swam-Theory%2Fblob%2Fmain%2FSecondo_Modello.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/Valer7a/Cherry-Picking-in-a-Decentralized-Hayekian-Market-with-Quality-described-through-Swam-Theory/HEAD)
 
 
 [1] Knopoff, D.; Secchini, V.; Terna, P. Cherry Picking: _Consumer Choices in Swarm Dynamics, Considering Price and Quality of Goods_. Symmetry __2020__, 12, 1912.
